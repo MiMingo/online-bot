@@ -1,0 +1,27 @@
+[
+  { "name": "Female US 1", "value": "en_us_001"},
+  { "name": "Female AU 1", "value": "en_au_001"},
+  { "name": "Female GE",   "value": "de_001"},
+  { "name": "Female BR",   "value": "br_001"},
+
+  { "name": "Male UK 1",   "value": "en_uk_001"},
+  { "name": "Male UK 2",   "value": "en_uk_003"},
+  { "name": "Male US 1",   "value": "en_us_006"},
+  { "name": "Male AU 1",   "value": "en_au_002"},
+  { "name": "Male GE 1",   "value": "de_002"},
+  { "name": "Male SP 1",   "value": "es_002"},
+  { "name": "Male MX 1",   "value": "es_mx_002"},
+  { "name": "Male FR 1",   "value": "fr_001"},
+  { "name": "Male BR",     "value": "br_005"},
+
+  { "name": "Narrator",    "value": "en_male_narration"},
+  { "name": "Ghost Face",  "value": "en_us_ghostface"},
+  { "name": "Chewbacca",   "value": "en_us_chewbacca"},
+  { "name": "C3PO",        "value": "en_us_c3po"},
+  { "name": "Stitch",      "value": "en_us_stitch"},
+  { "name": "Stormtrooper","value": "en_us_stormtrooper"},
+  { "name": "Rocket",      "value": "en_us_rocket"},
+  
+  { "name": "Alto",        "value": "en_female_f08_salut_damour"},
+  { "name": "Tenor",       "value": "en_male_m03_lobby"}
+]

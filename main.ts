@@ -21,6 +21,26 @@ try {
       await bot.leave(interaction);
     } else if (interaction.commandName === OnlineBotCommandName.Boom) {
       await bot.boom(interaction);
+    } else if (interaction.commandName === OnlineBotCommandName.Smooch) {
+      await bot.smooch(interaction);
+    } else if (interaction.commandName === OnlineBotCommandName.Wenomechainsama) {
+      await bot.wenomechainsama(interaction);
+    } else if (interaction.commandName === OnlineBotCommandName.Wifenlooof) {
+      await bot.wifenlooof(interaction);
+    } else if (interaction.commandName === OnlineBotCommandName.Chikenmcnuget) {
+      await bot.chikenmcnuget(interaction);
+    } else if (interaction.commandName === OnlineBotCommandName.Boop) {
+      await bot.boop(interaction);
+    } else if (interaction.commandName === OnlineBotCommandName.Shang) {
+      await bot.shang(interaction);
+    } else if (interaction.commandName === OnlineBotCommandName.Celtics) {
+      await bot.celtics(interaction);
+    } else if (interaction.commandName === OnlineBotCommandName.TiktokTTS) {
+      await bot.tts(interaction);
+    } else if (interaction.commandName === OnlineBotCommandName.Play) {
+      await bot.play(interaction);
+    } else if (interaction.commandName === OnlineBotCommandName.Stop) {
+      await bot.stop(interaction);
     }
   });
 
